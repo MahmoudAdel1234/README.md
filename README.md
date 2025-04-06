@@ -29,5 +29,5 @@ I am a Full Stack Web Development trainee using .NET at ITI. With a degree in Co
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/AhmedSamir109" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
-<a href="www.linkedin.com/in/ahmed-samir19" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a># README.md
+<p align="left"> <a href="https://github.com/MahmoudAdel1234" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="www.linkedin.com/in/mahmoud-adel-omar" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
